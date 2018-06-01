@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 25 21" enable-background="new 0 0 25 21" xml:space="preserve">
+ <style type="text/css">
+	 .bl {fill:rgb(0, 0, 0)}
+	 .rd {fill:rgb(228, 0, 43)}
+ </style>
+<path fill="none" d="z"/>
+<g>
+	<rect class="rd" width="25" height="5" rx="2.5" ry="2.5" />
+	<rect class="rd" y="8" width="25" height="5" rx="2.5" ry="2.5" />
+	<rect class="rd" y="16" width="25" height="5" rx="2.5" ry="2.5" />
+</g>
+<path fill="none" d="z"/>
+</svg>
